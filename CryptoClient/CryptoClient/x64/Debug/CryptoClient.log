@@ -1,0 +1,4 @@
+﻿  CryptoClient.cpp
+D:\Visual Studio 2022 project\CryptoClient\CryptoClient\CryptoClient.h(154,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2022 project\CryptoClient\CryptoClient\CryptoClient.cpp(5,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CryptoClient.vcxproj -> D:\Visual Studio 2022 project\CryptoClient\x64\Debug\CryptoClient.exe

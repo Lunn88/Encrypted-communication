@@ -1,0 +1,4 @@
+﻿  CryptoServer.cpp
+D:\Visual Studio 2022 project\CryptoServer\CryptoServer\CryptoServer.h(88,17): warning C4101: 's': unreferenced local variable
+D:\Visual Studio 2022 project\CryptoServer\CryptoServer\CryptoServer.cpp(44,74): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+  CryptoServer.vcxproj -> D:\Visual Studio 2022 project\CryptoServer\x64\Debug\CryptoServer.exe
